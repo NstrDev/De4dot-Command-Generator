@@ -1,4 +1,4 @@
-# De4dot-Command-Generator
+# De4dot-Command-Generator [Requires De4dot]
 Command Generator for De4dot
 
 ## Installation
